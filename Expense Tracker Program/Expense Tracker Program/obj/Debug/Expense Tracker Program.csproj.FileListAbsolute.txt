@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\bin\Debug\Expense Tracker Program.exe.config
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\bin\Debug\Expense Tracker Program.exe
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\bin\Debug\Expense Tracker Program.pdb
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\obj\Debug\Expense Tracker Program.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\obj\Debug\Expense Tracker Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\obj\Debug\Expense Tracker Program.exe
+C:\Users\user\source\repos\Expense Tracker Program\Expense Tracker Program\obj\Debug\Expense Tracker Program.pdb
