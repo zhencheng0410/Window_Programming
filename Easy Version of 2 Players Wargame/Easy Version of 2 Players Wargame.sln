@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Version of 2 Players Wargame", "Easy Version of 2 Players Wargame\Easy Version of 2 Players Wargame.csproj", "{389AC380-65EC-4E03-8E06-BE3D9972D7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389AC380-65EC-4E03-8E06-BE3D9972D7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389AC380-65EC-4E03-8E06-BE3D9972D7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389AC380-65EC-4E03-8E06-BE3D9972D7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389AC380-65EC-4E03-8E06-BE3D9972D7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E421BE-37BC-406A-9FF7-9E38A6A41182}
+	EndGlobalSection
+EndGlobal
